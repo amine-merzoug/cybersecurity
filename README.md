@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Course
+# Cybersecurity Course
 
 Welcome to the **Information and Data Security** course! 
 
@@ -14,7 +14,7 @@ This course is intended **for educational purposes only**. All practical exercis
 
 ---
 
-## 📚 Course Overview
+## Course Overview
 
 This course introduces the core principles of cybersecurity through a combination of theory and practical labs. 
 
@@ -27,11 +27,11 @@ You will learn how modern attacks work, explore tools used by professionals, and
 - **Chapter 1: TCP/IP Network Review**
   - Network layers and models
   - IP addressing and routing
-  - Common protocols (ICMP, TCP, UDP)
+  - Common protocols (TCP, UDP, ICMP, etc.)
 
 - **Chapter 2: General Security Concepts**
   - CIA triad and security objectives
-  - Threats, vulnerabilities, and risk management
+  - Threats, vulnerabilities, and risks
   - Security policies and standards
 
 - **Chapter 3: System Vulnerabilities and Attack Methods**
@@ -40,13 +40,13 @@ You will learn how modern attacks work, explore tools used by professionals, and
   - Privilege escalation and system compromise
 
 - **Chapter 4: Packet Filtering Systems (Firewalls)**
-  - Types of firewalls (packet, stateful, etc.)
+  - Types of firewalls (stateless, stateful, WAF, NGFW, etc.)
   - Firewall rules and configurations
   - Access control models
 
 - **Chapter 5: Intrusion Detection/Prevention Systems (IDS/IPS)**
   - Signature-based vs. anomaly-based detection
-  - Network-based and host-based IDS/IPS
+  - Network-based and host-based IDS/IPS (HIDS/HIPS, NIDS/NIPS)
   - Incident handling and alerting
 
 - **Chapter 6: Public Key Infrastructure (PKI)**
@@ -60,18 +60,18 @@ You will learn how modern attacks work, explore tools used by professionals, and
   - VPN security considerations
 ---
 
-## 🔧 Lab Environment
+## Lab Environment
 
 You will need the following machines for the labs:
 
-- **Kali Linux** – attack & analysis machine
-- **Metasploitable** – vulnerable target machine
-- **Windows** or **macOS host** – for real-world traffic
+- **Kali Linux**: attack & analysis machine
+- **Metasploitable**: vulnerable target machine
+- **Windows** or **MacOS** host: for real-world traffic
 - All machines should be connected via **Host-only** or **NAT** networking mode.
 
 ---
 
-## 🧪 Labs Included
+## Labs
 
 | Lab # | Title                                                   | Tools Used              |
 |-------|----------------------------------------------------------|-------------------------|
@@ -84,12 +84,12 @@ You will need the following machines for the labs:
 | 7   | ...                         | ...   |
 ---
 
-## 🙋 Need Help?
+## Need Help?
 
-For questions or support during the course, feel free to reach out:
+For questions or support, feel free to reach out:
 
-- 📧 Email: `amine.merzoug@univ-batna2.dz`
-- 🧑‍🏫 Instructor: **Mohammed A. Merzoug, PhD**
-
+- Instructor: **Mohammed A. Merzoug, PhD**
+- Email: `amine.merzoug@univ-batna2.dz`
+  
 ---
 
