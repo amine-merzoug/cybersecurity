@@ -5,6 +5,7 @@
 ### Project: Honeypot
 
 - **Deadline: Jan 11, 2026**
+  - Email to: `amine.merzoug@univ-batna2.dz`
 - Team leaders must send me the list of their team members as soon as possible
 - What you should deliver
   - Source code
