@@ -1,12 +1,28 @@
+
+
+## Announcements
+
+### Project: Honeypot
+
+- **Deadline: Jan 11, 2026**
+- Team leaders must send me the list of their team members as soon as possible
+- What you should deliver
+  - Source code
+  - Presentation 
+  - Short report (2 pages max)
+  - 
+--- 
 # Cybersecurity Course
+
 
 Welcome to the **Information and Data Security** course! 
 
 This repository provides all the resources, labs, and materials needed to follow along and practice hands-on cybersecurity skills throughout the semester.
 
+
 ---
 
-## ⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 This course is intended **for educational purposes only**. All practical exercises must be conducted in isolated lab environments. Never test tools or exploits on unauthorized systems.
 
@@ -14,7 +30,7 @@ This course is intended **for educational purposes only**. All practical exercis
 
 ---
 
-## Course Overview
+### Course Overview
 
 This course introduces the core principles of cybersecurity through a combination of theory and practical labs. 
 
@@ -22,7 +38,7 @@ You will learn how modern attacks work, explore tools used by professionals, and
 
 ---
 
-## Topics Covered
+### Topics Covered
 
 - **Chapter 1: TCP/IP Network Review**
   - Network layers and models
@@ -60,7 +76,7 @@ You will learn how modern attacks work, explore tools used by professionals, and
   - VPN security considerations
 ---
 
-## Lab Environment
+### Lab Environment
 
 You will need the following machines for the labs:
 
@@ -71,7 +87,7 @@ You will need the following machines for the labs:
 
 ---
 
-## Labs
+### Labs
 
 | Lab # | Title                                                   | Tools Used              |
 |-------|----------------------------------------------------------|-------------------------|
@@ -84,7 +100,7 @@ You will need the following machines for the labs:
 | 7   | ...                         | ...   |
 ---
 
-## Need Help?
+### Need Help?
 
 For questions or support, feel free to reach out:
 
