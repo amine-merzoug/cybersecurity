@@ -10,7 +10,7 @@
   - Source code
   - Presentation 
   - Short report (2 pages max)
-  - 
+  
 --- 
 # Cybersecurity Course
 
