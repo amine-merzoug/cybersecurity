@@ -2,6 +2,12 @@
 
 ## Announcements
 
+### Important: Dec 17, 2025
+
+- The provided .docx lab files (e.g., 6_snort.docx and 7_pki_vpn.docx) were edited using Google Docs. 
+  
+- Please use the same tool to edit them, or ensure they are edited properly using Microsoft Office, to avoid formatting issues.
+
 ### Project: Honeypot
 
 - **Deadline: Jan 11, 2026**
