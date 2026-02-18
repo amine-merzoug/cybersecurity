@@ -2,29 +2,19 @@
 
 ## Announcements
 
-### Important: Dec 17, 2025
+### Important: Feb 18, 2026
 
-- The provided .docx lab files (e.g., 6_snort.docx and 7_pki_vpn.docx) were edited using Google Docs. 
-  
-- Please use the same tool to edit them, or ensure they are edited properly using Microsoft Office, to avoid formatting issues.
+All course updates and important information will be posted here. 
 
-### Project: Honeypot
-
-- **Deadline: Jan 11, 2026**
-  - Email to: `amine.merzoug@univ-batna2.dz`
-- Team leaders must send me the list of their team members as soon as possible
-- What you should deliver
-  - Source code
-  - Presentation 
-  - Short report (2 pages max)
+Please check this section regularly.
   
 --- 
 # Cybersecurity Course
 
 
-Welcome to the **Information and Data Security** course! 
+Welcome to the **Cybersecurity** course! 
 
-This repository provides all the resources, labs, and materials needed to follow along and practice hands-on cybersecurity skills throughout the semester.
+This repository provides all the resources, labs, and materials needed to follow along and practice hands-on cybersecurity skills.
 
 
 ---
@@ -47,27 +37,27 @@ You will learn how modern attacks work, explore tools used by professionals, and
 
 ### Topics Covered
 
-- **Chapter 1: TCP/IP Network Review**
+- **TCP/IP Network Review**
   - Network layers and models
   - IP addressing and routing
   - Common protocols (TCP, UDP, ICMP, etc.)
 
-- **Chapter 2: General Security Concepts**
+- **General Security Concepts**
   - CIA triad and security objectives
   - Threats, vulnerabilities, and risks
   - Security policies and standards
 
-- **Chapter 3: System Vulnerabilities and Attack Methods**
+- **System Vulnerabilities and Attack Methods**
   - Common vulnerabilities and exploits
   - Malware, phishing, and social engineering
   - Privilege escalation and system compromise
 
-- **Chapter 4: Packet Filtering Systems (Firewalls)**
+- **Packet Filtering Systems (Firewalls)**
   - Types of firewalls (stateless, stateful, WAF, NGFW, etc.)
   - Firewall rules and configurations
   - Access control models
 
-- **Chapter 5: Intrusion Detection/Prevention Systems (IDS/IPS)**
+- **Intrusion Detection/Prevention Systems (IDS/IPS)**
   - Signature-based vs. anomaly-based detection
   - Network-based and host-based IDS/IPS (HIDS/HIPS, NIDS/NIPS)
   - Incident handling and alerting
@@ -77,15 +67,22 @@ You will learn how modern attacks work, explore tools used by professionals, and
   - Certificates and certificate authorities
   - Key management and SSL/TLS basics
 
-- **Chapter 7: Virtual Private Networks (VPN)**
+- **Virtual Private Networks (VPN)**
   - Tunneling protocols and encryption
   - Site-to-site and remote access VPNs
   - VPN security considerations
+
+- **Tools for Managing and Handling Security Incidents in Enterprises.**
+  - SIEM 
+  - XDR
+  - SOAR
+  - Ticketing systems
+  
 ---
 
 ### Lab Environment
 
-You will need the following machines for the labs:
+You will need the following machines for the labs
 
 - **Kali Linux**: attack & analysis machine
 - **Metasploitable**: vulnerable target machine
@@ -94,25 +91,24 @@ You will need the following machines for the labs:
 
 ---
 
-### Labs
+### Lab overview
 
-| Lab # | Title                                                   | Tools Used              |
+| Lab  | Title                                                   | Tools Used              |
 |-------|----------------------------------------------------------|-------------------------|
 | 1   | Introduction to Kali Linux                              | Kali terminal, bash     |
 | 2   | Scanning with Nmap                                      | Nmap, basic scripting   |
 | 3   | Exploitation with Metasploit                            | Metasploit Framework    |
 | 4   | Network Sniffing with Wireshark                         | Wireshark, ping, traceroute |
-| 5   | Brute Force and Password Cracking                       | Hydra, John the Ripper  |
-| 6   | Log Analysis and SIEM Basics                            | Syslog, Elastic Stack   |
+| 5   | Log Analysis and SIEM Basics                            | Syslog, Elastic Stack   |
 | 7   | ...                         | ...   |
 ---
 
 ### Need Help?
 
-For questions or support, feel free to reach out:
+For questions or support, feel free to reach out.
 
-- Instructor: **Mohammed A. Merzoug, PhD**
-- Email: `amine.merzoug@univ-batna2.dz`
+- Professor: **Mohammed A. Merzoug, PhD**
+- email: `amine.merzoug@univ-batna2.dz`
   
 ---
 
